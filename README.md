@@ -1,0 +1,1 @@
+# automate-microsoft-rewards
