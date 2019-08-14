@@ -9,3 +9,14 @@ C:\Users\Q_the\source\repos\Bing Searcher\Bing Searcher\obj\Debug\netcoreapp2.1\
 C:\Users\Q_the\source\repos\Bing Searcher\Bing Searcher\bin\Debug\netcoreapp2.1\Bing Searcher.pdb
 C:\Users\Q_the\source\repos\Bing Searcher\Bing Searcher\obj\Debug\netcoreapp2.1\Bing Searcher.dll
 C:\Users\Q_the\source\repos\Bing Searcher\Bing Searcher\obj\Debug\netcoreapp2.1\Bing Searcher.pdb
+D:\Repos\automate-microsoft-rewards\Bing Searcher\Bing Searcher\bin\Debug\netcoreapp2.1\Bing Searcher.deps.json
+D:\Repos\automate-microsoft-rewards\Bing Searcher\Bing Searcher\bin\Debug\netcoreapp2.1\Bing Searcher.runtimeconfig.json
+D:\Repos\automate-microsoft-rewards\Bing Searcher\Bing Searcher\bin\Debug\netcoreapp2.1\Bing Searcher.runtimeconfig.dev.json
+D:\Repos\automate-microsoft-rewards\Bing Searcher\Bing Searcher\bin\Debug\netcoreapp2.1\Bing Searcher.dll
+D:\Repos\automate-microsoft-rewards\Bing Searcher\Bing Searcher\bin\Debug\netcoreapp2.1\Bing Searcher.pdb
+D:\Repos\automate-microsoft-rewards\Bing Searcher\Bing Searcher\obj\Debug\netcoreapp2.1\Bing Searcher.csprojAssemblyReference.cache
+D:\Repos\automate-microsoft-rewards\Bing Searcher\Bing Searcher\obj\Debug\netcoreapp2.1\Bing Searcher.csproj.CoreCompileInputs.cache
+D:\Repos\automate-microsoft-rewards\Bing Searcher\Bing Searcher\obj\Debug\netcoreapp2.1\Bing Searcher.AssemblyInfoInputs.cache
+D:\Repos\automate-microsoft-rewards\Bing Searcher\Bing Searcher\obj\Debug\netcoreapp2.1\Bing Searcher.AssemblyInfo.cs
+D:\Repos\automate-microsoft-rewards\Bing Searcher\Bing Searcher\obj\Debug\netcoreapp2.1\Bing Searcher.dll
+D:\Repos\automate-microsoft-rewards\Bing Searcher\Bing Searcher\obj\Debug\netcoreapp2.1\Bing Searcher.pdb

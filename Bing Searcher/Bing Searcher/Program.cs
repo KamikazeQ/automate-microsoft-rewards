@@ -8,6 +8,13 @@ namespace Bing_Searcher
 {
     class Program
     {
+
+        /*
+         * Current build is being tested/developed with Microsoft Edge (EdgeHTML) version 18.  So user will need to do the following to enable the Web Driver
+         * 
+         * Enable Developer Mode by going to Settings > Update and Security > For Developer
+         */
+
         static void Main(string[] args)
         {
             List<string> searchWords = new List<string>() {"cat", "ai", "duck", "hero", "dog", "girl", "man", "cow", "clown", "woman",
